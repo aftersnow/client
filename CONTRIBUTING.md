@@ -97,7 +97,7 @@ the preparation in the following steps:
 1. **FORK** client to your repository.
 
 To make this work, you just need to click the button Fork
-in right-left of [dragonflyoss/client](https://github.com/dragonflyoss/client)
+in top-right of [dragonflyoss/client](https://github.com/dragonflyoss/client)
 main page. Then you will end up with your repository in
 `https://github.com/<your-username>/client`,
 in which `your-username` is your GitHub username.
@@ -225,7 +225,7 @@ we do take more emphasis on code review.
 
 PR is the only way to make change to client project files.
 To help reviewers better get your purpose,
-PR description could not be too detailed.
+PR description should be detailed.
 We encourage contributors to follow the
 [PR template](./.github/PULL_REQUEST_TEMPLATE.md) to finish the pull request.
 
